@@ -23,7 +23,14 @@ The goal was to analyze how features like mileage, model year, and fuel type rel
 - `app.py` — Streamlit app  
 - `vehicles_us.csv` — dataset  
 - `notebooks/EDA.ipynb` — exploratory analysis  
-- `requirements.txt` — project dependencies  
+- `requirements.txt` — project dependencies
+
+## Data
+
+- `vehicles_us.csv` — original dataset  
+- `cleaned_vehicles_us.csv` — cleaned version used in the app  
+
+The data was cleaned in the EDA step to handle missing values and improve consistency before building the dashboard.
 
 ## Live App
 
