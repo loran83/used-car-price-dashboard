@@ -1,43 +1,26 @@
-# Used Car Listings Dashboard
+# Used Car Price Dashboard
 
-This project is an interactive web app built with Streamlit to explore used car listings in the U.S.
+## Overview
+This project is an interactive dashboard that explores how different features affect used car prices.
 
-The goal was to analyze how features like mileage, model year, and fuel type relate to vehicle prices, and then present those insights in a simple dashboard that users can interact with.
+## Goal
+The goal was to analyze real-world vehicle listing data and understand how factors like mileage, model year, and fuel type influence pricing.
+
+## What I Did
+- Cleaned and prepared the dataset for analysis
+- Explored relationships between key variables such as price, mileage, and year
+- Built an interactive dashboard using Streamlit
+- Created visualizations to make the data easy to explore
+
+## Results
+- Found that mileage and condition can impact price as much as the model year
+- Built a dashboard that allows users to explore pricing trends interactively
 
 ## Tools Used
-
-- Python  
-- Pandas  
-- Plotly Express  
-- Streamlit  
-
-## What This Project Does
-
-- explores used car listing data  
-- shows price distributions  
-- visualizes relationships between price and vehicle features  
-- lets users interact with charts in a simple web app  
-
-## Project Files
-
-- `app.py` — Streamlit app  
-- `vehicles_us.csv` — dataset  
-- `notebooks/EDA.ipynb` — exploratory analysis  
-- `requirements.txt` — project dependencies
-
-## Data
-
-- `vehicles_us.csv` — original dataset  
-- `cleaned_vehicles_us.csv` — cleaned version used in the app  
-
-The data was cleaned in the EDA step to handle missing values and improve consistency before building the dashboard.
+- Python
+- Pandas
+- Streamlit
+- Plotly
 
 ## Live App
-
 https://sdproject-z1td.onrender.com
-
-## How to Run It
-
-1. Clone the repository:
-```bash
-git clone https://github.com/loran83/sdproject.git
