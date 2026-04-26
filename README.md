@@ -3,6 +3,15 @@
 ## Overview
 This project is an interactive dashboard that explores how different features affect used car prices.
 
+## Dashboard Preview
+
+![Dashboard Overview](./dashboard-overview.png)
+
+## Visual Insights
+
+### Mileage vs Price
+![Mileage vs Price](./price-vs-mileage.png)
+
 ## Goal
 The goal was to analyze real-world vehicle listing data and understand how factors like mileage, model year, and fuel type influence pricing.
 
