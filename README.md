@@ -33,3 +33,14 @@ The goal was to analyze real-world vehicle listing data and understand how facto
 
 ## Live App
 https://sdproject-z1td.onrender.com
+
+## How to Run Locally
+
+1. Clone the repository:
+git clone https://github.com/loran83/used-car-price-dashboard.git
+
+2. Install dependencies:
+pip install -r requirements.txt
+
+3. Run the app:
+streamlit run app.py
