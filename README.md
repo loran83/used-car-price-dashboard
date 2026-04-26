@@ -25,6 +25,11 @@ The goal was to analyze real-world vehicle listing data and understand how facto
 - Found that mileage and condition can impact price as much as the model year
 - Built a dashboard that allows users to explore pricing trends interactively
 
+- ## Key Insights
+- Vehicle price decreases as mileage increases  
+- Certain models retain value better than others  
+- Price distribution shows clear clustering across vehicle segments  
+
 ## Tools Used
 - Python
 - Pandas
